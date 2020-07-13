@@ -2,7 +2,7 @@ a =5
 b = 5
 
 function add()
-{ return (a += b)}
+{ (a += b)}
 
 
 function subtract()
