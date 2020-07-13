@@ -1,3 +1,5 @@
 function add()
 { return (add)}
-function 
+function subtract()
+function multiple()
+function divide()
