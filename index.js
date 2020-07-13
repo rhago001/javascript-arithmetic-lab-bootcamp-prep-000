@@ -25,5 +25,5 @@ function decrement(n)
 
 function makeInt(n)
 {
-  return(n)
+  return(parseFloat(n))
 }
