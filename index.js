@@ -20,5 +20,5 @@ function increments (n)
 
 function decrements(n)
 {
-  
+  return(n--)
 }
