@@ -6,7 +6,9 @@ function add(a, b)
 
 function subtract(a, b)
 { return (a-b)}
-function multiple(a, b)
-{ return (a *= b)}
+
+function multipley(a, b)
+{ return (a *= b) }
+
 function divide(a, b)
 { return (a/b)}
