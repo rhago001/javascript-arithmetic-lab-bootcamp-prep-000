@@ -1,0 +1,2 @@
+function add()
+{ console.log()
